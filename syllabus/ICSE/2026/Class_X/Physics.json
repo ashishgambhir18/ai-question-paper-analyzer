@@ -1,0 +1,33 @@
+{
+  "board": "ICSE",
+  "year": 2026,
+  "class": "X",
+  "subject": "Physics",
+  "source_url": "https://cisce.org/wp-content/uploads/2026/01/10.-Physics.pdf",
+  "units": [
+    {
+      "name": "Force, Work, Power and Energy",
+      "topics": []
+    },
+    {
+      "name": "Light",
+      "topics": []
+    },
+    {
+      "name": "Sound",
+      "topics": []
+    },
+    {
+      "name": "Electricity and Magnetism",
+      "topics": []
+    },
+    {
+      "name": "Heat",
+      "topics": []
+    },
+    {
+      "name": "Modern Physics",
+      "topics": []
+    }
+  ]
+}
